@@ -1,12 +1,19 @@
 # movieApi
-simple movie api with nodejs express mongodb&amp;mongoose : api apply 4 CRUD operations
-## use npm install to download all node_modules
-### you can test my Api : 
-##### To --> Get-All-Movies : https://movieapi-pbp8.onrender.com/api/v1/movies
-##### To --> Get-Single-Movie : https://movieapi-pbp8.onrender.com/api/v1/movies/{movieID}
-##### To --> Delete-Single-Movie : https://movieapi-pbp8.onrender.com/api/v1/movies/{movieID}
-##### To --> Update-Single-Movie : https://movieapi-pbp8.onrender.com/api/v1/movies/{movieID}
-##### To --> Insert-Single-Movie : https://movieapi-pbp8.onrender.com/api/v1/movies
+## overview
+This is simple movie api with nodejs for doing CRUD operations.
+
+## Features
+  *Create, Read, Update, and Delete (CRUD) operations for to-do items.
+
+## Technology
+  *NodeJs
+  *ExpressJs
+  *Mongodb&Mongoose
+  
+## How to Run 
+ * run : npm install
+ * add your config.env file
+ * run : npm start
 
 
 
