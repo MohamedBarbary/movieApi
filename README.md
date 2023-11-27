@@ -1,4 +1,4 @@
-# movie-Api
+# Movie-Api
 ## overview
 This is a simple movie api with nodejs for applying CRUD operations.
 
@@ -10,10 +10,13 @@ This is a simple movie api with nodejs for applying CRUD operations.
   * ExpressJs
   * Mongodb&Mongoose
   
-## How to Run 
+## How To Run 
  * run : npm install
  * add your config.env file
  * run : npm start
+
+## Api Documentation 
+PostMan URL : https://documenter.getpostman.com/view/29168656/2s9YeEcXbY 
 
 
 
