@@ -1,4 +1,4 @@
-# movieApi
+# movie-Api
 ## overview
 This is simple movie api with nodejs for doing CRUD operations.
 
@@ -14,6 +14,8 @@ This is simple movie api with nodejs for doing CRUD operations.
  * run : npm install
  * add your config.env file
  * run : npm start
+
+
 
 
 
