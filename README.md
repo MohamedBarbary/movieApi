@@ -3,7 +3,7 @@
 This is a simple movie api with nodejs for applying CRUD operations.
 
 ## Features
-  * Create, Read, Update, and Delete (CRUD) operations for to-do items.
+  * Create, Read, Update, and Delete (CRUD) operations for movies items.
 
 ## Technology
   * NodeJs
