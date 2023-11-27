@@ -16,7 +16,7 @@ This is a simple movie api with nodejs for applying CRUD operations.
  * run : npm start
 
 ## Api Documentation 
-PostMan URL : https://documenter.getpostman.com/view/29168656/2s9YeEcXbY 
+URL : https://documenter.getpostman.com/view/29168656/2s9YeEcXbY 
 
 
 
